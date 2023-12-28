@@ -1,0 +1,20 @@
+﻿#root {
+    text-align: center;
+}
+
+.btn-dark {
+    background-color: black;
+    padding: 10px;
+}
+
+.cardBgStyle {
+    background: peru;
+    text-align: center;
+}
+
+.cartHeightStyle{
+    height: 100vh;
+}
+.forecasts{
+    background: #FFF;
+}
